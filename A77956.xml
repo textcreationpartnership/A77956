@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something in answer to a book called Choice experiences, given forth by one J. Turner. Also the copy of a letter sent to the assembly of those that are called anabaptists in Newcastle. Wherein the simple minded ones may see the deceit of those people, who take up the practises of others, by imitation and tradition from the Scriptures, not having the same commands themselves, as the saints alwayes had, from the spirit of the Lord. And that Christ in the saints, which is their hope of glory, is the same Christ that was crucified by the Jews, who is the lambe slaine from the foundation of the world. Also the difference between the saints who waite on the Lord for the moving if his spirit to be acted, when, and as he please; and formalists of these dayes, who in their owne wills and time practice their imitations of duties and ordinances, which the Lord abhorres. By a servant of the Lord, named of the world Edward Burrough.</title>
+            <author>Burrough, Edward, 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77956</idno>
+            <idno type="STC">Wing B6025</idno>
+            <idno type="STC">Thomason E816_2</idno>
+            <idno type="STC">ESTC R207361</idno>
+            <idno type="EEBO-CITATION">99866418</idno>
+            <idno type="PROQUEST">99866418</idno>
+            <idno type="VID">118691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118691)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E816[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something in answer to a book called Choice experiences, given forth by one J. Turner. Also the copy of a letter sent to the assembly of those that are called anabaptists in Newcastle. Wherein the simple minded ones may see the deceit of those people, who take up the practises of others, by imitation and tradition from the Scriptures, not having the same commands themselves, as the saints alwayes had, from the spirit of the Lord. And that Christ in the saints, which is their hope of glory, is the same Christ that was crucified by the Jews, who is the lambe slaine from the foundation of the world. Also the difference between the saints who waite on the Lord for the moving if his spirit to be acted, when, and as he please; and formalists of these dayes, who in their owne wills and time practice their imitations of duties and ordinances, which the Lord abhorres. By a servant of the Lord, named of the world Edward Burrough.</title>
+                  <author>Burrough, Edward, 1634-1662.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year of the worlds accompt, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, J. --  (Jane). --  Choice experiences of the kind dealings of God before, in, and after conversion.</term>
+               <term>Anabaptists --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118691:1" rendition="simple:additions"/>
+            <p>
+               <hi>Something in Anſwer to a Book called CHOICE EXPERIENCES, Given forth by one J. TVRNER.</hi>
+            </p>
+            <p>
+               <hi>Alſo the Copy of a Letter ſent to the Aſſembly of thoſe that are called</hi> Anabaptiſts <hi>in</hi> Newcastle.</p>
+            <p>Wherein the ſimple minded ones may ſee the deceit of thoſe people, who take up the practiſes of others, by imitation and tradition from the Scriptures, not having the ſame commands themſelves, as the Saints alwayes had, from the ſpirit of the Lord.</p>
+            <p>And that Chriſt in the Saints, which is their hope of glo<g ref="char:EOLhyphen"/>ry, is the ſame Chriſt that was crucified by the Jews, who is the Lambe ſlaine from the foundation of the World.</p>
+            <p>Alſo the difference between the Saints who waite on the Lord for the moving if his Spirit to he acted, when, and as he pleaſe; And Formaliſts of theſe dayes, who in their owne wills and time practice their imitations of Duties and Ordinances, which the Lord abhorres.</p>
+            <p>
+               <hi>By a Servant of the Lord, named of the World</hi> Edward Burrough.</p>
+            <p>
+               <hi>Printed in the Year of the worlds accompt, 1654.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="reply">
+            <pb facs="tcp:118691:2"/>
+            <pb n="3" facs="tcp:118691:2"/>
+            <p>I Have met with a Book called, <hi>Choyce experiences,</hi> given forth by one <hi>I Turner,</hi> who by <hi>John Spilſbery</hi> in his Epiſtle, is cal<g ref="char:EOLhyphen"/>led, <hi>a Daughter of Syon;</hi> and her ſelfe declareth in the 109. <hi>pag.</hi> of her <hi>Booke,</hi> of being brought out of <hi>Babylon</hi> into <hi>Syon,</hi> but all along through her <hi>Booke,</hi> her language is one and the ſame, before her comming out of <hi>Babylon,</hi> and in <hi>Syon</hi> (as ſhe ſaith) her language is the language of <hi>Babylon</hi> wholly, and ſhe is yet a ſervant in bondage in <hi>Babylon</hi> unto the Miſtreſſe of Witchcraft, and never came to witneſſe freedom in <hi>Syon;</hi> for I know her voyce, its the language of her City where ſhe now dwells, which is in confuſion in <hi>Babylon.</hi> And whereas ſhe de<g ref="char:EOLhyphen"/>clares of ſome particulars which ſhe calls <hi>Deceits,</hi> whereby ſhe was deceived, in the 109 <hi>pag.</hi> in that which ſhe calls, <hi>the fifth note of experience, concerning notions and pretended ſpiritualities in which Satan transformes himſelfe into an Angel of light, and how the Lord was pleaſed to recover her out of deceit.</hi> I anſwer, It is plain to the ſpirituall man which diſcernes of truth and de<g ref="char:EOLhyphen"/>ceit, that ſhe is yet deceived and unrecovered out of deceit; and here I charge her that ſhe belves the Lord, for he hath not <hi>recovered her out of deceit,</hi> for ſhe hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him in that <hi>work,</hi> as is made appeare in her <hi>Book;</hi> and ſhe is now in notion, and not in power, and in pretended ſpiritualities and not really in the ſpirit; and Satan is now transformed in her into an Angel of light by which ſhe is deceived; and whereas ſhe <hi>talkes</hi> of her <hi>choyce experiences,</hi> death yet raignes in her, and is no whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſub<g ref="char:EOLhyphen"/>dued; I ſpeake as in the preſence of the Lord, who am moved to lay open her deceit to the ſimple, who doth blaſpheme the God of Heaven in his Saints, in calling truth error and calling that deceit, which by the ſpirit of the Lord I owne to be truth, and calls thoſe, corrupt principles which was owned by the ſer<g ref="char:EOLhyphen"/>vants of the Lord in former generations, and which is owned now by them which witneſſe the ſame ſpirit; which ſpirit of Chriſt ſhe makes appeare, ſhe knowes not who hath de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed him, and ſalvation by him, within; Whereas ſhe ſpeaks of Sa<g ref="char:EOLhyphen"/>tan envying her happineſſe, and waits his opportunity to <hi>catch
+<pb n="4" facs="tcp:118691:3"/>her as a Fiſh in the Water, covering his hooke with a baite of My<g ref="char:EOLhyphen"/>ſtery and ſpiritually, I anſwer.</hi> She is yet in the power of Satan, he hath already catched her with his covered hooke, which is covered with a very faire outſide, a faire forme of truth a like<g ref="char:EOLhyphen"/>neſſe of it, with the likeneſſe of a Church, and of a Baptiſme, and of a Fellowſhip &amp;c. is ſhe beguiled already and is unhap<g ref="char:EOLhyphen"/>py through the opportunities which the Devil hath wayted over her; for ſhe is under the curſe, lying in the fall and enmity. And whereas ſhe ſpeaks. <hi>Of having of eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed him in his former appearances as a Devill yet now transforme himſelfe a an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngel of light. I anſwer.</hi> She hath not eſcaped him as a Devill<g ref="char:punc">▪</g> and here ſhe is a lyer, for his appearance <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her, in ly ng and in ſpeaking evill of thoſe things ſhe know<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and he is tranſ<g ref="char:EOLhyphen"/>formed in her as an Angel of light, but ſhe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but lyes in darkeneſſe, in the my fiery of in<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ty <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the pretence of ſpirituality. And ſhe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> are, ſo deceived are the fitteſt Agenes to prome<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I an<g ref="char:EOLhyphen"/>ſwer.</hi> Here it is made manifeſt, ſhe who <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Devill doth much promote his Kingdome, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hands of evill doers, who through her <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hearts againſt the truth. Whereas ſhe ſpeaks. <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing perſons by corrupt principles, which they would <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> at the thought of, before they had ſuch principles</hi> I anſwer <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>is is her own condition, ſhe is drawn by Satan to follow <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> principles, which if ſhe did ſee ſhe would tremble at <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of them. And ſhe ſaith <hi>God was not onely pleaſed to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> from ſuch things but to diſcover the wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by which perſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brought to ſuch things.</hi> I anſwer, Here againe I charge her that ſhe belies the Lord (which is blaſphemy) for he hath not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her from corrupt principles: he would, but ſhe hath refi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed him; and the diſcovery from God to her, will be pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and woe; for death and darkneſſe raigne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which <hi>makes</hi> manifeſt themſelves in her, which is her diſcovery. <hi>She ſpeak <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> avoy<g ref="char:EOLhyphen"/>ding thoſe wayes and forewarning others to avoyd them likewiſe. I anſwer</hi> She hath not avoyded the waves of <hi>darkeneſſe</hi> but hath choſen them, and hath avoyded the way of truth<g ref="char:punc">▪</g> as is made manifeſt, which hath dented ſalvation by Chriſt within; and as ſhe hath avoyded the way of truth her ſelfe, ſo ſhe caſts
+<pb n="5" facs="tcp:118691:3"/>a ſtumbling-blocke in the way of the ſimple to a avoyd it <hi>like<g ref="char:EOLhyphen"/>wiſe.</hi> Whereas ſhe <hi>ſpeaks, of diſcovering Satan under theſe vayles</hi> and ſaith, <hi>by harkening to the voyce of the tempter ſhe was deceived, and beguiled by him in ſome perticular things.</hi>
+            </p>
+            <p>
+               <hi>I anſwer,</hi> Satan is not yet diſcovered to her, but lyes under his vayle in Fleſh deceiving her; and by her <hi>hearkening</hi> to the voyce of the tempter, ſhe is now deceived by him, not in few things, but in many: I <hi>ſpeake</hi> it as in the preſence of the Lord which ſhall judge of her and me. And <hi>ſhe ſpeaks of ever being humbled in the preſence of God for it.</hi> I anſwer When the dreadfull God ſhews his preſence, ſhe cannot ſtand, but ſhall be confounded, who doth here <hi>ſpeake</hi> to the diſhonour of his name: True humility <hi>ſhe knowes</hi> not, for the man of ſin is ex<g ref="char:EOLhyphen"/>alted in her above all that is called God And whereas ſhe <hi>ſpeaks of beginning to be ſomewhat confuſed in her iudgement; and ſhe ſpeaks, of not being ſwallowed up with confuſion.</hi> I an<g ref="char:EOLhyphen"/>ſwer, She is in confuſion, and hath never been out of it, as to every ſingle eye may appeare; <hi>ſhe</hi> is not ſomewhat in confuſi<g ref="char:EOLhyphen"/>on, but is rowled and ſwallowed up in it; and it is long ſince it began in her. Whereas <hi>ſhe ſpeaks of being weake in Princi<g ref="char:EOLhyphen"/>ples.</hi> I anſwer, It is true, the Principle which is of God, is, and hath been <hi>weake</hi> in her, for it is over-powred by the Prin<g ref="char:EOLhyphen"/>ciple of deceit which is not <hi>weake,</hi> but <hi>ſtrong,</hi> and which rules and guydes her in her own will. Whereas <hi>ſhe ſpeaks of being with a people, and by them being deceived in ſome perticular things: naming onely three things;</hi> the firſt whereof is,</p>
+            <p>
+               <hi>That godlineſſe being a Myſtery, that it did conſiſt of ſome<g ref="char:EOLhyphen"/>thing within, and not of ſomething without: and that the Saints were to expect life and ſalvation from a Chriſt within, and not from a Chriſt without.</hi>
+            </p>
+            <p>
+               <hi>I anſwer.</hi> Godlineſſe is a myſtery; the Image of God, which is godlineſſe is a myſtery hidden from the eye of <hi>I. Tur<g ref="char:EOLhyphen"/>ner</hi> and from all vulterous eyes; and this myſtery is within, in life and power, conſiſting of the new man Chriſt Jeſus, who is the Image of God made manifeſt within the ſaints, in whoſe Image man is <hi>like</hi> God godly; and this myſtery is not in out<g ref="char:EOLhyphen"/>ward things, in word or declaration, or outward practice though where this myſtery is made manifeſt, godly practiſes will flow
+<pb n="9" facs="tcp:118691:4"/>from it to without; but yet the power, life, and myſtery of godlineſſe is within, and cannot be ſeen with the carnall eye, nor comprehended with the carnall minde. And here I charge <hi>I. Turner,</hi> in the preſence of God, that <hi>ſhe knowes</hi> not the my<g ref="char:EOLhyphen"/>ſtery of Godlineſſe, who blaſphemouſly calls this a corrupt Principle; and here it is made manifeſt, that <hi>ſhe</hi> is in <hi>Babylon</hi> yet, and is deceived and bewitched by the Devill: I beare witneſſe to the truth, and to this particular, and againſt her who denyes it. And the ſaints hath life and ſalvation from Chriſt made manifeſt within, which is the ſame Chriſt which ſuffered without; and this I affirme, that till Chriſt be revea<g ref="char:EOLhyphen"/>led within, there is no ſalvation nor life <hi>partaked</hi> of. The Scripture ſaith, <hi>they were reprobates in whom Chriſt was not;</hi> And the Apoſtle ſaid, <hi>Chriſt in you, the hope of glory;</hi> and <hi>Chriſt lived in him,</hi> which was his life and ſalvation. Where Chriſt is not made manifeſt within, the Serpent is Head, and the Devill is King in the heart; and this I witneſſe, and doth declare it, as in the preſence of God, that t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Chriſt was made manifeſt within me I was not ſaved nor had n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s to God, though I was high in profeſſion and Knowled<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> outwardly. And here againe <hi>I Turner</hi> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th ſhewed <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> blindneſſe and ſottiſhneſſe to all and may <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and confeſſe that <hi>ſhe</hi> is a be noſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e in <hi>Bab<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> a cor<g ref="char:EOLhyphen"/>rupt Principle, which is the very power <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Religion and ſalvation, which is Chriſt Jeſus wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>feſt in the ſaints, which <hi>takes</hi> away ſinn and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Werkes</hi> of the Devill; and <hi>ſhe</hi> and all others, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the fleſh following the luſts and deſire<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it living <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> own wills in the broad way, and <hi>talkes</hi> of ſalvation by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing without, will be deceived for nothing wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the righteouſneſſe of Jeſus Chriſt revealed, which <hi>takes</hi> away ſinne, and ſets free from it.</p>
+            <p>And now for the ſecond Principle, <hi>That Saints were not to doe duties by, or from a command without but from a command within; and that the Word command in Scripture, was not a com<g ref="char:EOLhyphen"/>mand to them, till they had a Word within them.</hi>
+            </p>
+            <p>
+               <hi>I anſwer,</hi> That is no command from God to me, what he commands to another; neither did any of the ſaints which
+<pb n="7" facs="tcp:118691:4"/>we reade of in Scripture act by the command which was to ano<g ref="char:EOLhyphen"/>ther, not having the command to themſelves: I challenge to finde an example to it; they obeyed every one their own com<g ref="char:EOLhyphen"/>mand, one was ſent to Baptiſme and to Preach the Goſpel; ano<g ref="char:EOLhyphen"/>ther was ſent, not to Baptiſe, but to Preach the Goſpel. And thou <hi>I. Turner,</hi> or any other, who goes to duty, as you call it, by imitation from the Letter without, which was commands to others, in your own wills and time, your ſacrifice is not ex<g ref="char:EOLhyphen"/>cepted. but is abomination to the Lord; for you goe with<g ref="char:EOLhyphen"/>out the moving of the ſpirit, in your own wills and ſtrength, which God hates, and which his wrath is upon. And I charge her here, as in the preſence of the Lord, that <hi>ſhe</hi> knowes not what a command from God in ſpirit is: but is ignorant and not a daughter of <hi>Syon;</hi> and let her mouth be ſtopped, and let ſhame ſtrike her in the Face, who profeſſes her ſelfe to know the Lord; and let all be aſhamed of her who proferſes them<g ref="char:EOLhyphen"/>ſelves members joyned with her in Church; <hi>ſhe</hi> hath made ma<g ref="char:EOLhyphen"/>nifeſt the ignorance of them all.</p>
+            <p>Now for the third particular, That <hi>as to the time of doing du<g ref="char:EOLhyphen"/>ties, they were to waite for the moving of the ſpirit, to carry them forth to it; and this they called, Wayting for a power; and till they had ſuch a power, they were to doe nothing but ſit ſtill, and waite; and this not onely in private duties, but in church alſo; not owning any Miniſtery by way of g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fts, of Office, but to come to<g ref="char:EOLhyphen"/>gether, and there ſit ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll and waite t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll they had a power, and then to ſpeake whether man or woman.</hi>
+            </p>
+            <p>
+               <hi>I anſwer,</hi> Who dare call this a Principle of deceit none but who are led by deceit, and ſuch is <hi>I. Turner,</hi> who puts light for darkeneſſe, and darkeneſſe for light; all duties as <hi>ſhe</hi> calls them whatſoever if the moving of the ſpirit doe not carry forth to act them; then the movings of the corrupt will and vaine mind carries forth; and who act from ſuch Principles, are ac<g ref="char:EOLhyphen"/>curſed from God. And <hi>I. Turner,</hi> and all who denyes to waite for the moving of the power of the ſpirit to carry forth, but goes before the moving of it all their Prayers, Preachings, Or<g ref="char:EOLhyphen"/>dinances, and Churches, I doe deny, and declare againſt, by the Eternall ſpirit of God, they are odious and abomination in the eye of the Lord, and is no duty which he accepts, whether
+<pb n="8" facs="tcp:118691:5"/>they be done in private, or in the Church. And that Miniſtery which is not carried forth by the moving of the ſpirit of God, but of man, and in the will of man, which miniſtery is hated of God; and <hi>ſhe</hi> which denyes wayting upon God, till power be given in from God to act and ſpeake for God, hath denyed the way of God, and the practice of the ſaints in former generations; and woe is unto her, which makes the ſimple beleeve this to be deceit: whereas <hi>ſhe</hi> ſaith in theſe particu<g ref="char:EOLhyphen"/>lars, which carryed ſuch a face or ſhew of ſpirituality, <hi>ſhe</hi> was corrupted, but did never fully own them in <hi>judgement</hi> nor <hi>practice.</hi> I anſwer, O blinde deceived ſpirit, which calls theſe but a ſhew or face of ſpirituality; <hi>ſhe</hi> calls the ſubſtance a ſhew, and the ſhew or likeneſſe, a ſubſtance; And woe unto her, which calls good evill, and evill good; theſe particulars by the eternall-ſpirit, I owne, and warke in; but that ſpirit of deceit, and Anti-Chriſt in her, hath denyed them and calls them deceiveable, and ſaith <hi>by them ſhe was corrupt;</hi> let her be aſhamed, and all of her faction; it was the Principle which led her from theſe things, by which <hi>ſhe</hi> was corrupted, and which hindered her to owne them and practice them, and which now makes her declare againſt them; which Principle is the ſpirit of the falſe Prophet, which now rules which I know will never owne nor pract<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce theſe things She alſo ſaith, <hi>She did oppoſe thoſe Principles which led to looſeneſſe either in converſation, or in ſlighting the Churches or Ordinances of Chriſt, though ſhe beleeves ſuch Principles naturally follow the others. I anſwer,</hi> She did, and doth oppoſe the Principle of God, which would have led her out of pride and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt into an holy converſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion; and out of falſe Churches into <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hurch which is in God. And I charge her here that <hi>ſhe</hi> beleeves lyes and utters what <hi>ſhe</hi> beleeves, which is bl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>phemy<g ref="char:punc">▪</g> who ſaith <hi>ſhe</hi> beleeves that wicked Principles naturelly follow the three named by her. And whereas <hi>ſhe</hi> ſaith, <hi>As to that Prin<g ref="char:EOLhyphen"/>ciple of wayting<g ref="char:punc">▪</g> yet could never come up to it in practice, in private duties ſhe could not ſtay ſo long from duty<g ref="char:punc">▪</g> till ſhe had ſuch a power, but did frequently goe to duty when ſhe had it not.</hi>
+            </p>
+            <p>
+               <hi>I anſwer.</hi> Here I doe beleeve her <hi>ſhe</hi> ſpeaks truth<g ref="char:punc">▪</g> with her lying ſpirit; <hi>ſhe</hi> never yet could waite upon God, to act for
+<pb n="9" facs="tcp:118691:5"/>him, but hath runne in her own will, which is abomination to him, which is no acting for God, but for ſelfe, and for the the Devill; and here hath <hi>ſhe</hi> ſhut her ſelfe out, from the ho<g ref="char:EOLhyphen"/>ly men of Gods practice, who wayted upon him to be led by him, by the power of his ſpirit; and <hi>ſhe</hi> ſhewes her ſelfe open<g ref="char:EOLhyphen"/>ly to all, that <hi>ſhe</hi> went to that which <hi>ſhe</hi> calls duty in her own power and time, and knew not the power of God, nor his time to be acted in; and all her duties, as <hi>ſhe</hi> calls them, is no more but imagined and imitated from the letter without, acted by the ſerpents ſtrength and wiſedome in her; and <hi>ſhe</hi> hath here plainely diſcovered <hi>ſhe</hi> knowes not what wayting upon God is, in truth and ſincerity.</p>
+            <p>She ſaith, <hi>She thought ſometime ſhe had had it;</hi> and ſaith, <hi>ſhe thought ſhe had had communion with God.</hi> I anſwer, Her thoughts I doe deny, who calls truth deceit; and <hi>ſhe</hi> did, as now <hi>ſhe</hi> doth, live in thoughts and conceivings, by which <hi>ſhe</hi> is beguiled; that ſpirit which rules and ſpeaks in her, never had communion with God, but is contrary to him; nor ne<g ref="char:EOLhyphen"/>ver was acted in the truth of God, but againſt him. She ſaith, <hi>She knew no Scripture-ground for the practice of weighting to be acted by the power of the ſpirit, and led to duty.</hi> I anſwer, The ſaints ground of acting, is not the outward letter, but the ſpirit which gave forth the letter; but the Scripture doth declare of ſuch, as wayted to be acted by the ſpirit and power of the Lord: Dare any ſay, the Saints Prayed or Propheſied, without the movings of the ſpirit and power of the Lord? here <hi>ſhe</hi> hath ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t her ſelfe among the Heathens, who knowes not God, nor what it is to be acted by his ſpirit and power. She ſpeaks <hi>of loſing her peace, and having little or no communion with God, nor ſcarce any thing to ſpeake to, or for God.</hi> I anſwer, True peace in Chriſt <hi>ſhe</hi> never knew, <hi>for there is no peace to the wicked;</hi> neither have any, who denyes wayting upon God, as <hi>ſhe</hi> hath done, any communion with God, nor nothing to ſay to, or for God, but through deceit, and in deceit is <hi>I. Tur<g ref="char:EOLhyphen"/>ner.</hi> That which brought her into trouble, and let her ſee the confuſion <hi>(which ſhe ſpeaks of)</hi> which <hi>ſhe</hi> had lived in before, but ſaw it not till then; that witneſſe I owne, and it ſhall witneſſe for the Lord and the Truth of what I ſay eternally;
+<pb n="10" facs="tcp:118691:6"/>though <hi>ſhe</hi> have ſhine the <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ſſe, yet it ſhall ariſe to her co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nati<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and her everlaſting miſery. And whereas <hi>ſhe</hi> ſaith, <hi>Some laboured to perſwade her it was a deſpenſation of God, and that the Saints after brought out of Egypt, muſt be in the Wil<g ref="char:EOLhyphen"/>derneſſe, before they come to Caraan.</hi> I anſwer, I beare witneſſe by the eternall ſpirit, the truth of this particular, as having witneſſed the ſame condition; and <hi>ſhe</hi> which hath denied this to be of God, hath openly ſhewed her ſelfe to be of the De<g ref="char:EOLhyphen"/>vill, denying the truth of Scripture. She ſaith, <hi>this did not at all ſatisfie her, but ſhe continued in a ſad condition.</hi> I anſwer. She here hath ſhewed what ſpirit <hi>ſhe</hi> is of, of the viperons generation which fled the wrath which came upon her, and could not abide the judgement; and of the ſpirit of them which would have been backe in Egypt, which mur<g ref="char:EOLhyphen"/>mured, and therefore, with them, <hi>ſhe</hi> entered not, but is peri<g ref="char:EOLhyphen"/>ſhed with them in the Wilderneſſe. Whereas ſhe ſaith, <hi>She was never ſo troubled with temptations, as at that time.</hi> I anſwer, Here <hi>ſhe</hi> hath ſhewed her ſelfe to be the ſtony ground, which when temptation came, withered away. She ſpeaks of a par<g ref="char:EOLhyphen"/>ticular remptation, which was, <hi>Queſtioning the being of God.</hi> I anſwer. That which was troubled, wrought the temptations, and not that which troubled; and here <hi>ſhe</hi> ſhews her igno<g ref="char:EOLhyphen"/>rance, which cannot diſcerne the ground of temptation, but laies it upon God, which is blaſphemy; for he tempts none to evill. Whereas <hi>ſhe</hi> ſaith, <hi>this was the ſad fruit of her ſtray<g ref="char:EOLhyphen"/>ing from the pure wayes of truth.</hi> I anſwer, Here againe <hi>ſhe</hi> ſhews her blindneſſe, who knows not that temptations are for good: That which <hi>ſhe</hi> calls, <hi>ſtraying from the pure wayes of truth,</hi> it otherwiſe; for the ſtronger man came to diſpoſſeſſe the ſtrong man, and then began the war, and happy had <hi>ſhe</hi> been, if <hi>ſhe</hi> had patiently endured to the end; but not abiding under the judgement, but ſtarting aſide, <hi>ſhe</hi> is caſt out, and muſt not enter; for the ſecond beaſt whoſe deadly wound is healed, is alive, which makes war with the Lambe, which ex<g ref="char:EOLhyphen"/>ereiſeth all the power of the firſt Beaſt: and here <hi>I. Turner</hi> is under the dominion of the ſecond Beaſt. She ſpeaks <hi>of bleſ<g ref="char:EOLhyphen"/>ſing God that ſhe ſtrayed no further.</hi> I anſwer. She who hath denyed to waite unto Prayer and Prayſes, but prayſe in her
+<pb n="11" facs="tcp:118691:6"/>own ſtrength and time, her prayſe is abomination to the Lord and <hi>ſhe</hi> calls that, <hi>ſtraying from God,</hi> which was leading unto God, and ſo hath forſaken the right way and hath c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the way of God behinde her backe, and re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſted him, who would have lead her out of darkeneſſe, and out of confuſion. Whereas <hi>ſhe</hi> ſpeaks <hi>of God remembring her.</hi> To which I anſwer, he will remember her to plague her, who hath brought diſho<g ref="char:EOLhyphen"/>nour to his great name, and hath called his way, the way of er<g ref="char:EOLhyphen"/>ror, and of deceit; and his reall truth, a ſhew or notion; <hi>ſhe</hi> hath choſen her own way, the way of deſtruction. Whereas <hi>ſhe</hi> ſpeaks, <hi>being turued from owning theſe particulars<g ref="char:punc">▪</g> ſhe was reſtored to theſe joyes that once ſhe had.</hi> I anſwer. She is re<g ref="char:EOLhyphen"/>turned with the Dog to the vomit, and with the Sow to her wallowing in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and there's her joy; and <hi>ſhe</hi> now joys in the earthly duſt, in formes and traditions, and likeneſſes of things, and knows not what it is to joy in God the ſubſtance, as by her writings it is made manifeſt, who hath denyed ſal<g ref="char:EOLhyphen"/>vation by <hi>Chriſt</hi> within, and hath denyed to waite upon God for the power of his ſpirit, and calls them deceitfull Princi<g ref="char:EOLhyphen"/>ples; <hi>ſhe</hi> hath choſen the way of death rather then the way of life, and hath taken her ſelfe to follow ſhaddows and likeneſ<g ref="char:EOLhyphen"/>ſes, and neglected the ſubſtance, which is <hi>Chriſt</hi> within, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lory; her latter end is worſe then her beginning and the P<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>filled upon her. And <hi>ſhe</hi> ſpeaks in the 126. <hi>pag. of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> being d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſervered under his vaile; and in particular, as to that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f being ſaved by a Chriſt within, and not by a Chriſt with ut; and the Lord was pleaſed to ſhew her it was quite ano<g ref="char:EOLhyphen"/>ther thing, differing from the Goſpel, and that it was attended with this evill conſequence, to overthrow the whole Goſpel, and to deny the Lord that bought them.</hi> I anſwer. I charge her here, as in the preſence of God, with belying the Lord, and with hor<g ref="char:EOLhyphen"/>rible blaſphemy; who ſaith, That that which the ſaints and ſervants of God witneſſed, who Preached the Goſpel and eſta<g ref="char:EOLhyphen"/>bli<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed it, (Chriſt within manifeſted) is quite another thing differing from the Goſpel, and that it is attended to overthrow the wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Goſpel: O horrible blaſphemy, and belying the Lord, who ſaith, that the Lord was pleaſed to ſhew her it: did ever he ſhew any of his, lyes? all take notice of this wicked
+<pb n="12" facs="tcp:118691:7"/>and horrible blaſphemer; the Lord rebuke that unclean ſpirit of Anti-Chriſt in her, She goes on and ſaith, then ſecondly, <hi>as to that of wayting for a power to Pray, and that here was no com<g ref="char:EOLhyphen"/>mand but from within; concerning both theſe, the Lord was plea<g ref="char:EOLhyphen"/>ſed to ſhew that it was not according to his minde, but a meer in<g ref="char:EOLhyphen"/>vention of Satan; and that it was attended with this evill conſe<g ref="char:EOLhyphen"/>quence to ſlight Scriptures and commands of God, and to expoſe the ſoule to Satans deceivings, to walke by the imaginations of their own heart, in ſtead of the motions of the ſpirit.</hi> I anſwer, The Saints wayted for the moving of the ſpirit, which was power in them to help them to pray; they knew not to Pray as they ought without it, and this command and help, they had not without them, but within them: And I again here charge her with belying the Lord and with notorious blaſphemy, who ſaith, that that which the ſaints witneſſed (wayting for the power of the ſpirit to Pray) is not according to the minde of the Lord, but an invention of Satan; and <hi>ſhe</hi> is not aſhamed to ſay, the Lord ſhewed her, and the ſame which they witneſ<g ref="char:EOLhyphen"/>ſed, which ſpoake forth the Scripture, and which walked in the commands of God, tends to ſlight Scriptures and commands of God, and to expoſe the ſoule to Satans deceivings: this is blaſphemy and error, and corrupt principles: and <hi>ſhe</hi> which hath denyed wayting, to be led by the motions of the ſpirit, is led by the imaginations of her own heart, and is under the power of Satans deceiving, &amp; ſpeaks contrary to what the Scri<g ref="char:EOLhyphen"/>pture ſpeaks, and ſo ſlights it, and the commands of God <hi>ſhe</hi> hath blaſphemed the God of Heaven, and accordingly will the Lord requite. And thus have I for the ſimple ones ſake decla<g ref="char:EOLhyphen"/>red the truth, and every ſingle eye may ſee, who it is is led by corrupt principles; and what I have written ſhall <hi>ſhe</hi> eternally witneſſe to be true, and all her co-partners. And I paſſe by the reſt of her Book, as not worth anſwering, for it is nothing but a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery imagination and confuſion, and death yet raignes in her, and in her Book is ſpoken out by her; and <hi>ſhe</hi> knowes not the Baptiſme of Saints, nor Communion, nor the true Church of Chriſt; to that witneſſe in her conſcience doe I declare, and when it ſhall ariſe, it will eternally Witneſſe me,</p>
+            <closer>
+               <signed>
+                  <hi>Whoſe Name in the Fleſh is</hi> Edward Burrough.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:118691:7"/>
+            <head>The Copy of a Letter, &amp;c.</head>
+            <p>FRiends, (for ſo I call you) I was moved of the Lord to come unto your Aſſembly, to declare the truth from him, coucerning you, as by the eternall ſpirit was revealed to me; and I doe acknow<g ref="char:EOLhyphen"/>ledge it, it was a mercy from the Lord that I had that ſmall li<g ref="char:EOLhyphen"/>berty which I had, to cleare my conſcience amongſt you, and to diſcharge my duty, in obedience to the Lord, and to every ones con<g ref="char:EOLhyphen"/>ſcience am I made manifeſt, whether you will heare, or you will forbeare: truely friends, there is ſomething among you which I owne, and which is owned of my Father; but yet many things hath he againſt you, and as I ſaid, I now againe ſay from the mouth of the Lord, that your covering is too narrow to hide your ſhame, and your bed too ſhort to ſtretch your ſelves upon; Now friends, the Ordinances of Jeſus Chriſt, which you act in, (you ſay) in obedience to him, I doe not ſpeake againſt, but doth witneſſe them in life and power; neither doe I judge ſuch a<g ref="char:EOLhyphen"/>mongſt you who have extered in at the doore, by the Principle of God, to the Ordinances, (if any ſuch) but you I doe declare againſt, and doth judge by the infallible ſpirit, who have in your own wills thruſt in your ſelves, and acted by imagination and imitation from the Letter without, and not having received the command from Chriſt into your ſelves; ſuch I judge to be in deceit, deceived by the Serpent, which deceives the ſimple, by the likeneſſe of a thing, and you that limit the Lord to any outward viſible thing, that without ſuch can be no ſalvation, you I judge againe to be in deceit, and my judgement ſhall ſtand; for nothing is avayleable, that which God once commanded, nor that which was not commanded, but the new creature, which is borne of the im<g ref="char:EOLhyphen"/>mortall ſeed, contrary to the will of man. Truely friends, you are acting in darkeneſſe, and there is no ſeperation in you betwixt the
+<pb n="14" facs="tcp:118691:8"/>pretious and the vile, betwixt the cleane, and the uncleane; for that which did convince you of falſe hirelings, and of their de<g ref="char:EOLhyphen"/>ceitfull worſhip, (which is owned of my Father in you) hath not b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>beyed by you, but your minds have been drawne forth from within, to obey a thing without; and herein have you been be<g ref="char:EOLhyphen"/>witched from the obedience of the truth within, to obey the letter without; as they wore which the Scripture ſpeaks of; and you are acted in another forms, and likeneſſe then you were before, and which ſome are acted in yet, but by tho ſame ſpirit; and you have a zeale, I beare you record, but it is not according to know<g ref="char:EOLhyphen"/>ledge: I declare againſt that ſpirit, by which you are now acted, as knowing it to be the ſpirit of Anti Chriſt; and that which is owned by my Father in you, is oppreſſed by you, by your wiſe<g ref="char:EOLhyphen"/>dome and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſen which ſtands above, and is head, and rules amongſt you, which is for deſtruction, and for the Lord to ac<g ref="char:EOLhyphen"/>compliſh his wrath upon: and happy were you if you knew the day of vengeance, which is the acceptable yeare of the Lord; but you are yet full and rich, and thinke you have need of no<g ref="char:EOLhyphen"/>thing; and hath a name that you li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, but you are dead, and empty, and miſerable; your forme is corrupted, and you ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k the living among the dead, and you act in the forme, but w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lkes at liberty in your own wills, deſpiſing the dayly croſſe of Chriſt, which if you walked in, would bring downe the high minde, and high na<g ref="char:EOLhyphen"/>ture in you; and through the Croſſe, that which is low in you, would be exalted, and the witneſſe of your Ordinances would you have within, which you are ſeeking in the letter without. And now Friend, to thee who was the Speaker when I was preſent among you; thy Name I know not, but by thy nature and ſpirit, thy ſpirit is the ſame which they ſpeake from, which thou ſeems to d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y as falſe ſpirits; and by that ſpirit haſt thou been deceived and now at workes by thee to deceive others; and that ſpirit infallibly, by the eternall Spirit doe I judge; for the time is come, that by the Saints, the great Wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re muſt be judged which hath wade all the men of the Earth drunke with the Wine of her Fornteat<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and which hath deceived the ſimple. And whereas thou did <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, what one thing I will deny as untruth which you had <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>? I anſwered then, as now I doe; I doe deny thy v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yee and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for
+<pb n="15" facs="tcp:118691:8"/>it is the voyce of the ſtranger, and not of Chriſt: and though you ſweare by that ſpirit, <hi>The Lord lives;</hi> I ſay, ſurely thou ſweares falſely; and the falſe Prophets which uſed their tongues, and ſaid, <hi>The Lord ſaith it, when the Lord had not ſpoken unto them,</hi> ſpeake the ſame words of the true Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phet; but he that had the true ſpirit judged the falſe ſpirit, and ſo it is now. And there<g ref="char:EOLhyphen"/>fore Friend, out of love to thy ſoule, I doo adviſe thee to be ſilent before the Lord, and waite upon him, te<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he manifeſt himſelfe to ſpeake in thee, and by thee; for Friend, thy Miniſtery is in the will of man, and thou miniſters death unto dead minds; and the Miniſtery which is to the Seed, thou art ignorant of: to that in thy conſcience I ſpeake, which ſhall witneſſe for me before the Lord, who is appearing in his power, to utter his thunders, and all Fleſh ſhall tremble at his preſence; and all Formes of Worſhip will he daſh to pieces at his appearance; And yours, who is the pureſt Forme, ſhall be broken to pieces, that he may rule, who is without forme and comelineſſe. Now Friends, for the Seeds ſake have I ſpeaken and written to you; and to that in your conſciences have I cleared my conſcience, in the preſence of the Lord, which you ſhall Eternally witneſſe, whether you will heare or forbeare: By a Servant of the Lord, who is named of the World,</p>
+            <closer>
+               <signed>Edward Burrough.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
